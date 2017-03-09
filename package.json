@@ -1,0 +1,23 @@
+{
+  "name": "fa-link-signer",
+  "version": "0.0.1",
+  "description": "Sign secure prefill links for FormAssembly forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/futurefirst/fa-link-signer.git"
+  },
+  "keywords": [
+    "formassembly",
+    "forms"
+  ],
+  "author": "David Knoll <david@futurefirst.org.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/futurefirst/fa-link-signer/issues"
+  },
+  "homepage": "https://github.com/futurefirst/fa-link-signer#readme"
+}
