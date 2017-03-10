@@ -1,6 +1,6 @@
 {
   "name": "fa-link-signer",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Sign secure prefill links for FormAssembly forms",
   "main": "index.js",
   "scripts": {
